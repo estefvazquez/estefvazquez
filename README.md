@@ -1,17 +1,17 @@
-<h1 align="center">Hi, I'm Estefania Vazquez</h1>
+<h1 align="center">Hi, I'm Estef Vazquez</h1>
 <h3 align="center">A PhD Candidate in Biomedical Sciences</h3>
 
 <p align="left"> <a href="https://twitter.com/estefvazque" target="blank"><img src="https://img.shields.io/twitter/follow/estefvazque?logo=twitter&style=for-the-badge" alt="estefvazque" /></a> </p>
 
-- 🔬💻 I’m currently working on **The tumour immune microenvironment of acral melanoma.**
+- 💻 I’m currently working on **Understanding the components of the tumour immune microenvironment of acral melanoma.**
 
-- 📚 I’m currently learning **German and Python**
+- 📚 I am currently learning **German and Python**
 
-- ☺︎ I am looking to collaborate on **Immuno-oncology and multi-omics integration projects.**
+- 🔬 I am looking to collaborate on **Immuno-oncology and multi-omics integration projects.**
 
-- 📎 I’m looking for help with **Spatial Omics**
+- 📎 I’m looking for help with **Spatial omics and machine learning**
 
-- 💬 Ask me about **Tumour immunology, RNA-seq deconvolution, music and coffee 🎧🎸🎶☕**
+- 💬 Ask me about **Tumour immunology, RNA-seq deconvolution, data visualization, music, photography and coffee 🎧🎸🎶☕**
 
 - 📫 How to reach me **estef.vazquezcruz@gmail.com, evazquez@liigh.unam.mx**
 
