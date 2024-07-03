@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Estef Vazquez</h1>
+<h1 align="center">Hi, I'm Estef Vazquez</h1>
 <h3 align="center">A PhD Candidate in Biomedical Sciences, working with Bioformatics for cancer research </h3>
 
 <p align="left"> <a href="https://twitter.com/estefvazque" target="blank"><img src="https://img.shields.io/twitter/follow/estefvazque?logo=twitter&style=for-the-badge" alt="estefvazque" /></a> </p>
 
 - 🔭 I’m currently working on **The tumour immune microenvironment of acral melanoma.**
 
-- 🌱 I’m currently learning **German Language**
+-  I’m currently learning **German**
 
-- 👯 I’m looking to collaborate on **Immuno-oncology and multi-omics integration projects.**
+-  I’m looking to collaborate on **Immuno-oncology and multi-omics integration projects.**
 
-- 🤝 I’m looking for help with **Spatial Omics and Nextflow pipelines**
+-  I’m looking for help with **Spatial Omics and Nextflow pipelines**
 
 - 💬 Ask me about **Tumour immunology, RNA-seq deconvolution, music**
 
