@@ -14,7 +14,7 @@ Current focus: Unraveling the molecular components that shape the immune landsca
 
 - 🔬 I am looking to collaborate on: **Immuno-oncology and multi-omics integration projects.**
 
-- ☺︎ I’m looking for help with **Spatial omics and machine learning**
+- ☺︎ I’m looking for help with: **Spatial omics and machine learning**
 
 - 💬 Ask me about: **Tumour immunology, RNA-seq deconvolution, data visualization, music, photography, and coffee**. 🎸🎶☕ Always eager to discuss, collaborate, and learn. 
 
