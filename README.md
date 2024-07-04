@@ -4,7 +4,7 @@
 
 PhD Candidate in Biomedical Sciences | Bioinformatics | Immuno-oncology | Melanoma Research
 
-💻 Investigating the tumor immune microenvironment of acral melanoma  
+💻 Investigating the tumour immune microenvironment of acral melanoma  
 
 🧬 Leveraging RNA-seq and proteomics data analysis  
 
