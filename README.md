@@ -16,6 +16,6 @@ Current focus: Unraveling the molecular components that shape the immune landsca
 
 - ☺︎ I’m looking for help with: **Spatial omics and machine learning**
 
-- 💬 Ask me about: **Tumour immunology, RNA-seq deconvolution, data visualization, music, photography, and coffee**. 🎸🎶☕ Always eager to discuss, collaborate, and learn. 
+- 💬 Ask me about: **Tumour immunology, RNA-seq deconvolution, data visualization, music, photography, and coffee**. 🎸☕ Always eager to discuss, collaborate, and learn. 
 
 - 📫 How to reach me: **estef.vazquezcruz@gmail.com, evazquez@liigh.unam.mx**
