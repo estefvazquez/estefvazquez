@@ -6,7 +6,7 @@ Biotechnologist | PhD Candidate in Biomedical Sciences
 
 🧬 Investigating the tumour immune microenvironment (TME) of acral melanoma  
 
-💻 Leveraging RNA-seq and proteomics data analysis (bioinformatics)
+💻 Leveraging RNA-seq and proteomics data analysis
 
 Current research: Unraveling the molecular components that shape the immune landscape and antitumor immunity in acral melanoma, a rare and aggressive skin cancer subtype.
 
