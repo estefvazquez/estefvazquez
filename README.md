@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Estef ☕ </h1>
+<h1 align="center">Hi there, I'm Estef ☕ </h1>
 
 <p align="left"> <a href="https://twitter.com/estefvazque" target="blank"><img src="https://img.shields.io/twitter/follow/estefvazque?logo=twitter&style=for-the-badge" alt="estefvazque" /></a> </p>
 
@@ -10,13 +10,28 @@ Biotechnologist | PhD Candidate in Biomedical Sciences | Bioinformatics
 
 Current research: Unraveling the molecular components that shape the immune landscape and antitumour immunity in acral melanoma, a rare and aggressive skin cancer subtype.
 
-- 📚 I am currently learning: **German** 
+📚 Currently Learning
 
-- 🔬 I am looking to collaborate on: **Multi-omics and Immuno-Oncology related projects.**
+ German language
+ Machine learning applications in oncology 
+ Spatial omics techniques and analysis
 
-- 💡 I’m looking for help with: **Spatial Omics and ML**
+👥 Looking to Collaborate On
 
-- 💬 Ask me about: **Tumour immunology, RNA-seq deconvolution, data visualization, music, coffee, and photography**. 🎸🎶🎹🎨 Always eager to discuss, collaborate, and learn. 
+- **Multi-omics and immuno-oncology related projects.**
 
-- 📫 How to reach me: **estef.vazquezcruz@gmail.com**
+💡 Seeking Help With
+
+-  **Spatial omics and machine learning**
+
+💬 Ask Me About
+
+- **Tumour immunology, RNA-seq deconvolution, data visualization, music, coffee, and photography**. 🎸🎹🎨
+
+📫 How to Reach Me
+
+- **estef.vazquezcruz@gmail.com**
+- https://twitter.com/estefvazque
   
+
+🎵 Always eager to learn, collaborate, and discuss science or creative ideas!
