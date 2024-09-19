@@ -2,7 +2,7 @@
 
 <p align="left"> <a href="https://twitter.com/estefvazque" target="blank"><img src="https://img.shields.io/twitter/follow/estefvazque?logo=twitter&style=for-the-badge" alt="estefvazque" /></a> </p>
 
-Biotechnologist | PhD Candidate in Biomedical Sciences | Bioinformatics
+**Biotechnologist | PhD Candidate in Biomedical Sciences | Bioinformatics**
 
 🧬 Investigating the tumour immune microenvironment (TME) of acral melanoma  
 
@@ -10,11 +10,10 @@ Biotechnologist | PhD Candidate in Biomedical Sciences | Bioinformatics
 
 Current research: Unraveling the molecular components that shape the immune landscape and antitumour immunity in acral melanoma, a rare and aggressive skin cancer subtype.
 
+
 📚 Currently Learning
 
- German language
- Machine learning applications in oncology 
- Spatial omics techniques and analysis
+ - **German language, spatial omics techniques and analysis, machine learning applications in oncology**
 
 👥 Looking to Collaborate On
 
@@ -31,7 +30,7 @@ Current research: Unraveling the molecular components that shape the immune land
 📫 How to Reach Me
 
 - **estef.vazquezcruz@gmail.com**
-- https://twitter.com/estefvazque
+- **https://twitter.com/estefvazque**
   
 
 🎵 Always eager to learn, collaborate, and discuss science or creative ideas!
