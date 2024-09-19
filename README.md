@@ -18,7 +18,7 @@ Current research: Unraveling the molecular components that shape the immune land
 
 👥 Looking to Collaborate On
 
-- **Multi-omics and immuno-oncology related projects.**
+- **Multi-omics and immuno-oncology projects**
 
 💡 Seeking Help With
 
@@ -26,7 +26,7 @@ Current research: Unraveling the molecular components that shape the immune land
 
 💬 Ask Me About
 
-- **Tumour immunology, RNA deconvolution, data vis, music, coffee, photography**. 🎸🎹🎨
+- **Tumour immunology, RNA deconvolution, data vis, music, coffee, photography** 🎸🎹🎨
 
 
 ---
