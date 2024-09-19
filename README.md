@@ -10,6 +10,7 @@
 
 Current research: Unraveling the molecular components that shape the immune landscape and antitumour immunity in acral melanoma, a rare and aggressive skin cancer subtype.
 
+---
 
 📚 Currently Learning
 
@@ -27,10 +28,14 @@ Current research: Unraveling the molecular components that shape the immune land
 
 - **Tumour immunology, RNA-seq deconvolution, data visualization, music, coffee, and photography**. 🎸🎹🎨
 
+
+---
+
 📫 How to Reach Me
 
 - **estef.vazquezcruz@gmail.com**
 - **https://twitter.com/estefvazque**
   
+---
 
 🎵 Always eager to learn, collaborate, and discuss science or creative ideas!
