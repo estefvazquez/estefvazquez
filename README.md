@@ -26,7 +26,7 @@ Current research: Unraveling the molecular components that shape the immune land
 
 💬 Ask Me About
 
-- **Tumour immunology, RNA-seq deconvolution, data visualization, music, coffee, and photography**. 🎸🎹🎨
+- **Tumour immunology, RNA deconvolution, data vis, music, coffee, photography**. 🎸🎹🎨
 
 
 ---
