@@ -14,7 +14,7 @@ Current research: Unraveling the molecular components that shape the immune land
 
 📚 Currently Learning
 
- - **German language, spatial omics techniques and analysis, machine learning applications in oncology**
+ - **German language, spatial omics techniques and analysis**
 
 👥 Looking to Collaborate On
 
